@@ -171,7 +171,7 @@ nav {
     text-align: center;
 }
 
-/* .loading {
+.loading {
     display: flex;
     justify-content: center;
     width: 100%;
@@ -186,7 +186,7 @@ nav {
 @keyframes loading {
     0% {transform: rotate(0);}
     100% {transform: rotate(360deg);}
-} */
+}
 
 .movie {
     width: 45%;
